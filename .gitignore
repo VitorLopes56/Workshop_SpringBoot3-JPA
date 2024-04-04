@@ -31,3 +31,13 @@ build/
 
 ### VS Code ###
 .vscode/
+
+pom.xml~
+*/pom.xml*.*    
+.classpath
+mvnw.cmd
+
+.mvn\wrapper
+.settings
+.project
+HELP.md
