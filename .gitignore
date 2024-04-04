@@ -32,12 +32,8 @@ build/
 ### VS Code ###
 .vscode/
 
-pom.xml~
-*/pom.xml*.*    
-.classpath
+#### Maven ###
 mvnw.cmd
 
-.mvn\wrapper
-.settings
-.project
-HELP.md
+
+
